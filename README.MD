@@ -24,7 +24,7 @@ Soy un programador💻 promedio, nada especial la verdad XD
 Noup :')
 
 ## Proyecto actual:
-Toy haciendo un juego con unos amigos 😄
+Nada especial, la verdad :)
 
 ## Frameworks:
 
