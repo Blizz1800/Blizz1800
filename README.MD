@@ -21,7 +21,7 @@ Soy un programador💻 promedio, nada especial la verdad XD
 
 ## Job:
 
-En un proyecto.
+Si.
 
 ## Contact:
 
