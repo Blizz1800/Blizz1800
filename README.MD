@@ -17,20 +17,11 @@ Soy un programador💻 promedio, nada especial la verdad XD
 
 ## SO:
 
-🐧Linux, por supueso 😉... Distro? actualmente Kali XD es q me gusta como se ve :3
+🐧Linux, por supueso 😉... Distro? actualmente Arch :3
 
 ## Job:
 
-Noup :')
-
-## Proyecto actual:
-Nada especial, la verdad :)
-
-## Frameworks:
-
-* SFML
-* GTK3
-* etc... (no recuerdo mas x ahora XD)
+En un proyecto.
 
 ## Contact:
 
@@ -41,3 +32,5 @@ Nada especial, la verdad :)
 
 * [Hackmmers](https://t.me/Hackmmer)
 * [El Club de los Berracos](https://t.me/Berraketazo)
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="blizz1800" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
